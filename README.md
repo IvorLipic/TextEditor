@@ -87,5 +87,7 @@ extern "C" void    destroy_plugin(Plugin* p);
 
 ## Acknowledgements
 
+University of Zagreb, Faculty of Electrical Engineering and Computing (FER)
+
 Course: [Oblikovni obrasci u programiranju](https://www.fer.unizg.hr/predmet/ooup)
 
