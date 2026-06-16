@@ -1,0 +1,16 @@
+# Ignore everything except TextEditor
+Factory/
+Factory++/
+SimpleGUIApplication/
+build/
+
+# IDE
+.vscode/
+
+# Generic binaries (safety net)
+*.exe
+*.dll
+*.lib
+*.o
+*.obj
+*.exp

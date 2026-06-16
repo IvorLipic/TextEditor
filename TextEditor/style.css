@@ -1,0 +1,15 @@
+.toolbar {
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #d0d0d0;
+    padding: 4px;
+}
+
+.toolbar button {
+    margin: 0 2px;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.toolbar button:hover {
+    background-color: #e0e0e0;
+}
