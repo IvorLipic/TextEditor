@@ -83,4 +83,8 @@ extern "C" void    destroy_plugin(Plugin* p);
 - Cursor navigation to document start / end
 - Status bar showing line number, column number, and total lines
 - Custom CSS styling (`style.css`)
+
+## Acknowledgements
+
+Course: [Oblikovni obrasci u programiranju](https://www.fer.unizg.hr/predmet/ooup)
 - Plugin menu with dynamically discovered plugins
